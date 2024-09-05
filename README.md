@@ -24,7 +24,7 @@ Code for the Auto Clipbot mechanic written in Verse for use in Unreal Editor for
 > This Verse code listens for when the Player uses the Signal Remote, and moves a Teleporter device to their location. The Player's location is then reset.
 > When the Player moves within a specified range of the Teleporter device, an NPC is teleported to the location of the Teleporter and the Player can eliminate the NPC.
 
-# How do I add support for more NPCs?
+## How do I add support for more NPCs?
 > Add a new NPC Character Definition for each NPC, add a new Trigger for each NPC, subscribe to all TriggeredEvent and in each OnSpawner#Enable function, disable the other spawners. Then enable the corresponding spawner and tell it to Spawn(). It is extremely important to make sure that the setting "Despawn AIs When Disabled" is enabled in UEFN (off by default) inside each NPC Spawner. Also add each NPC Spawner Device to the SpawnAllNPCs() function.
 
 ## How do I make a UEFN map? How do I do XYZ inside of UEFN?
