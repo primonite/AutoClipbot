@@ -38,6 +38,10 @@ Code for the Auto Clipbot mechanic written in Verse for use in Unreal Editor for
 
 > I am also afraid that I may one day stop working on Auto Clipbot but someone may want to improve it in some way. So this is here to help someone pick up roughly where I left off.
 
+> Hopefully, releasing this code allows someone else to learn from the techniques that I used to make this mechanic work as seamlessly as possible.
+
+> I am also afraid that I may one day stop working on Auto Clipbot but someone may want to improve it in some way. So this is here to help someone pick up roughly where I left off.
+
 > Also, who doesn't love free Verse code?
 
 # SHOWCASE / USAGE TUTORIAL
