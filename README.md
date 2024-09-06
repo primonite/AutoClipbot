@@ -32,11 +32,9 @@ Code for the Auto Clipbot mechanic written in Verse for use in Unreal Editor for
 > Please consider consulting [these official Epic Games tutorials](https://dev.epicgames.com/community/fortnite/getting-started/uefn) to learn more.
 
 ## Why release this?
+> Enough time has passed since the release of my Auto Clipbot map to the point where I feel comfortable releasing its code publicly.
+
 > With absolutely 0 programming experience, creating this from basically scratch was very challenging.
-
-> Hopefully, releasing this code allows someone else to learn from the techniques that I used to make this mechanic work as seamlessly as possible.
-
-> I am also afraid that I may one day stop working on Auto Clipbot but someone may want to improve it in some way. So this is here to help someone pick up roughly where I left off.
 
 > Hopefully, releasing this code allows someone else to learn from the techniques that I used to make this mechanic work as seamlessly as possible.
 
