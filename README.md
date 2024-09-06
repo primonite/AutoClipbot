@@ -9,7 +9,7 @@ Code for the Auto Clipbot mechanic written in Verse for use in Unreal Editor for
 5. In the top right of Visual Studio Code, click the Build button (Verse logo with checkmark).
 6. In the Content Browser inside UEFN, locate the Verse Device in the root directory of your Project's content.
 7. Drag the Verse Class into the viewport to add it to the world.
-8. Add the necessary other Fortnite Devices to your world and configure their settings (see Details panel of the device to learn more).
+8. Add the other necessary Fortnite Devices to your world and configure their settings (see Details panel of the Verse device to know which Fortnite devices you'll need).
 9. For the NPC, add a new folder to your Project's content folder to store some Character Definitions. Inside of the folder, right click and add an NPC Character Definition (under Artificial Intelligence). Double click the Character Definition to change its properties, but the only important modifiers are the Cosmetic and Health modifiers. The NPC Character Type can be left as Custom and the Behaviour can be Empty Behaviour. Add an NPC Spawner device into the world and assign the Character Definition to it.
 10. Push changes within UEFN (top middle).
 
@@ -30,3 +30,13 @@ Code for the Auto Clipbot mechanic written in Verse for use in Unreal Editor for
 ## How do I make a UEFN map? How do I do XYZ inside of UEFN?
 > I cannot make a complete guide on how to setup a UEFN map at this time.
 > Please consider consulting [these official Epic Games tutorials](https://dev.epicgames.com/community/fortnite/getting-started/uefn) to learn more.
+
+## Why release this?
+> With absolutely 0 programming experience, creating this from basically scratch was very challenging.
+> Hopefully, releasing this code allows someone else to learn from the techniques that I used to make this mechanic work as seamlessly as possible.
+> I am also afraid that I may one day stop working on Auto Clipbot but someone may want to improve it in some way. So this is here to help someone pick up roughly where I left off.
+> Also, who doesn't love free Verse code?
+
+# SHOWCASE / USAGE TUTORIAL
+https://github.com/user-attachments/assets/fd9b1ffd-2a7e-4b75-bacf-ddc5daa816c9
+
